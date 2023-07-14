@@ -1,5 +1,6 @@
 Ola, sou Pedro Felipe 
 Estou começando minha jornada no campo da programação!!!
+estou aprendendo bastante sobre git e github
 
 
 <!---
